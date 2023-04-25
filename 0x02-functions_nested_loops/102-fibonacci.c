@@ -16,7 +16,7 @@ int main(void)
 		s = j + k;
 		printf("%lu", s);
 
-		j= k;
+		j = k;
 		k = s;
 
 		if (i == 49)
