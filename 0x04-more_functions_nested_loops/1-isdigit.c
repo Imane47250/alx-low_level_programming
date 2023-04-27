@@ -2,8 +2,7 @@
 /**
   * int _isdigit - checks for a digit (from 0 to 9)
   * @c: the char to check
-  * Return: 1 if digit 0 otherwide
-  * Auth: Imane Elaceri
+  * Return: 1 if digit 0 otherwise
   */
 int _isdigit(int c)
 {
