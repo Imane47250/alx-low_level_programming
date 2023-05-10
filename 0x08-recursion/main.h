@@ -8,3 +8,4 @@ int is_prime_number(int n);int _putchar(char c);
 int intermediaire(int n, int square_root);
 int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
+int intermediaire_2(char *s, int i, int len);
