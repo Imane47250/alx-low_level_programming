@@ -8,7 +8,7 @@
  * @cmp: function pointer
  * Owned by: Imane
  * Return: -1 is size<0 or no elem matches
- *	else index of the first element for which 
+ *	else index of the first element for which
  *	the cmp function does not return 0
  */
 
