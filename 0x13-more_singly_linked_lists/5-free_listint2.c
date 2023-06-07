@@ -3,7 +3,7 @@
 /**
  * free_listint2 - frees a linked list, and sets head to NULL
  * @head: linked list
- Owned by: Imane
+ *  Owned by: Imane
  * Return: void
  */
 
